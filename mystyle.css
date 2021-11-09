@@ -1,11 +1,11 @@
 body {
-    background-color: rgb(255, 255, 255);
-  }
-  
-h2 {
-    color: rgb(119, 119, 233);
-    margin-left: 20px;
-  }
+  background-color: rgb(255, 255, 255);
+}
 
-.arial { font-family: Arial;}
+h2 {
+  color: rgb(119, 119, 233);
+  margin-left: 20px;
+}
+
+.adventpro {font-family: 'Advent Pro'; font-size: 22px; font-weight: lighter;}
 

@@ -3,9 +3,14 @@ body {
 }
 
 h2 {
-  color: rgb(119, 119, 233);
+  color: rgb(0, 0, 0);
   margin-left: 20px;
 }
 
-.quicksand {font-family: 'Quick Sand', 'sans-serif'; font-size: 22px;}
+@font-face {
+  font-family: 'quicksandlight';
+  src: url('quicksand-variablefont_wght-webfont.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
 

@@ -15,8 +15,7 @@ body {
   right: 300px;
   bottom: 510px;
   font-size-adjust: unset;
-  border-color: black;
-  border-width: 1.4px;
+  border-width: 0px;
 
 
 }
@@ -34,8 +33,8 @@ body {
   right: 175px;
   bottom: 510px;
   font-size-adjust: unset;
-  border-color: black;
-  border-width: 1.4px;
+  border-width: 0px;
+
 
 
 }
@@ -53,8 +52,8 @@ body {
   right: 50px;
   bottom: 510px;
   font-size-adjust: unset;
-  border-color: black;
-  border-width: 1.4px;
+  border-width: 0px;
+
 
 
 }

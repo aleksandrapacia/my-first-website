@@ -87,5 +87,22 @@ body {
   top: 180px;
 }
 
+.icon_github {
+  width: 20px;
+	height: 20px;
+  position: absolute;
+  right: 770px;
+  top: 300px;
 
+}
 
+.username {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size:14px;
+  position: absolute;
+  right: 650px;
+  top: 300px;
+  color: rgb(138, 138, 138);
+
+}

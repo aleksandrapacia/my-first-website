@@ -1,0 +1,14 @@
+{
+    "title": "React Hooks, Context API, and Pokemons",
+    "description": "Understanding how hooks and the context api work",
+    "date": "2020-04-21",
+    "tags": [
+      "javascript",
+      "react"
+    ],
+    "imageAlt": "The Ash from Pokemon",
+    "photographerUrl": "<https://www.instagram.com/kazuh.illust>",
+    "photographerName": "kazuh.yasiro",
+    "articleFile": "article.md",
+    "keywords": "javascript,react"
+  }

@@ -18,16 +18,11 @@
             </style>
     <body>
       <h1>Aleksandra Pacia</h1> 
-
-      <button onclick="location.href='index.html'" class="menubutton">Menu</button>  
       <button onclick="location.href='contact.html'" class="contactbutton">Contact</button>
-      <button onclick="location.href='posts.html'" class="postsbutton">Posts</button>  
+      <button onclick="location.href='index.html'" class="menubutton">Menu</button>   
+      <button onclick="location.href='posts.html'" class="postsbutton">Posts</button> 
       <hr size = "1" width="100%" color = "lightblue">
-
-      <button onclick="location.href='posts/post_n1.html'" class="postbutton1">Posts</button>  
-      
     </body>
     </head>
 
 </html>
-

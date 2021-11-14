@@ -86,23 +86,39 @@ body {
   right: 400px;
   top: 180px;
 }
-
+/*icons*/
 .icon_github {
   width: 20px;
 	height: 20px;
   position: absolute;
   right: 710px;
-  top: 300px;
+  top: 299px;
+}
+.icon_twitter {
+  width: 20px;
+	height: 20px;
+  position: absolute;
+  right: 710px;
+  top: 340px;
 
 }
-
-.username {
+/*usernames*/
+.username1 {
   font-family: 'Raleway', sans-serif;
   font-weight: 600;
   font-size:14px;
   position: absolute;
   right: 600px;
   top: 300px;
-  color: rgb(138, 138, 138);
+  color: rgb(0, 0, 0);
+}
 
+.username2 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size:14px;
+  position: absolute;
+  right: 600px;
+  top: 340px;
+  color: rgb(0, 0, 0);
 }

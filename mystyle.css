@@ -99,7 +99,16 @@ body {
 	height: 20px;
   position: absolute;
   right: 710px;
-  top: 340px;
+  top: 339px;
+
+}
+
+.icon_gmail {
+  width: 20px;
+	height: 20px;
+  position: absolute;
+  right: 710px;
+  top: 379px;
 
 }
 /*usernames*/
@@ -120,5 +129,15 @@ body {
   position: absolute;
   right: 600px;
   top: 340px;
+  color: rgb(0, 0, 0);
+}
+
+.username3 {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  font-size:14px;
+  position: absolute;
+  right: 555px;
+  top: 380px;
   color: rgb(0, 0, 0);
 }

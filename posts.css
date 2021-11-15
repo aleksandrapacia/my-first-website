@@ -58,13 +58,14 @@ body {
   
   }
   
-  .p {
+  div {
     font-family: 'Raleway', sans-serif;
-    font-weight: 600;
-    font-size: 20px;
+    font-weight: 1000;
+    font-size: 15px;
     position: absolute;
-    right: 650px;
-    top: 200px;
+    right: 620px;
+    top: 100px;
     color: black;
+    text-align: center/left/right;
   
   }

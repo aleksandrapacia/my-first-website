@@ -91,14 +91,14 @@ body {
   width: 20px;
 	height: 20px;
   position: absolute;
-  right: 710px;
+  right: 720px;
   top: 299px;
 }
 .icon_twitter {
   width: 20px;
 	height: 20px;
   position: absolute;
-  right: 710px;
+  right: 720px;
   top: 339px;
 
 }
@@ -107,7 +107,7 @@ body {
   width: 20px;
 	height: 20px;
   position: absolute;
-  right: 710px;
+  right: 720px;
   top: 379px;
 
 }
@@ -117,7 +117,7 @@ body {
   font-weight: 600;
   font-size:14px;
   position: absolute;
-  right: 600px;
+  right: 610px;
   top: 300px;
   color: rgb(0, 0, 0);
 }
@@ -127,7 +127,7 @@ body {
   font-weight: 600;
   font-size:14px;
   position: absolute;
-  right: 600px;
+  right: 610px;
   top: 340px;
   color: rgb(0, 0, 0);
 }
@@ -137,7 +137,7 @@ body {
   font-weight: 600;
   font-size:14px;
   position: absolute;
-  right: 555px;
+  right: 565px;
   top: 380px;
   color: rgb(0, 0, 0);
 }
@@ -148,7 +148,7 @@ body {
   font-weight: 600;
   font-size: 20px;
   position: absolute;
-  right: 650px;
-  top: 200px;
+  right: 615px;
+  top: 100px;
   color: black;
 }

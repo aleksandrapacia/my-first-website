@@ -1,5 +1,9 @@
 body {
   background-color: rgb(255, 255, 255);
+  width: 1000px;
+  margin-left: auto;
+  margin-right: auto;
+
 }
 
 .menubutton {
@@ -12,8 +16,8 @@ body {
   position:absolute;
   height: 50px;
   width: 100px;
-  right: 300px;
-  bottom: 950px;
+  right: 230px;
+  bottom: 940px;
   font-size-adjust: unset;
   border-width: 0px;
 
@@ -30,8 +34,8 @@ body {
   position:absolute;
   height: 50px;
   width: 100px;
-  right: 175px;
-  bottom: 950px;
+  right: 130px;
+  bottom: 940px;
   font-size-adjust: unset;
   border-width: 0px;
 
@@ -49,8 +53,8 @@ body {
   position:absolute;
   height: 50px;
   width: 100px;
-  right: 50px;
-  bottom: 950px;
+  right: 20px;
+  bottom: 940px;
   font-size-adjust: unset;
   border-width: 0px;
 
@@ -58,13 +62,14 @@ body {
 
 }
 
-.p {
+.text {
   font-family: 'Raleway', sans-serif;
+  display: inline;
   font-weight: 600;
   font-size: 20px;
   position: relative;
-  left: 730px;
-  top: 220px;
+  left: 20px;
+  top: 30px;
   color: black;
 
 }
@@ -82,16 +87,16 @@ body {
   width: 200px;
 	height: 200px;
 	border-radius: 50%;
-  position: absolute;
-  right: 1100px;
-  top: 180px;
+  position: relative;
+  left: 40px;
+  top: 60px;
 }
 /*icons*/
 .icon_github {
   width: 20px;
 	height: 20px;
   position: absolute;
-  right: 720px;
+  right: 710px;
   top: 299px;
 }
 .icon_twitter {
